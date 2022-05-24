@@ -22,7 +22,7 @@
   <table width="100%" border='0'>
     <tr>
         <td width="30%" align="center" valign="center">
-            <img src="images/logo/ssu.png">
+            <img src="images/logo/Emblema_CelGU.jpg">
             </td>
             <td valign="middle">Chelyabinsk State University.
             </br>Radiophysics and electronics
