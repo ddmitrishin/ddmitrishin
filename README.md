@@ -25,7 +25,7 @@
             <img src="images/logo/Emblema_CelGU.jpg">
             </td>
             <td valign="middle">Chelyabinsk State University.
-            </br>Radiophysics and electronics
+            </br>Radiophysics and Electronics
             <a target="_blank" href="https://www.csu.ru/en">csu.ru</a>.
     </td>
 </tr>
