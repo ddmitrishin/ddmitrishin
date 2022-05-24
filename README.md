@@ -21,7 +21,7 @@
   <summary>👨‍🎓 Education</summary>
   <table width="100%" border='0'>
     <tr>
-        <td width="30%" align="center" valign="center">
+        <td width="10%" align="center" valign="center">
             <img src="images/logo/Emblema_CelGU.jpg">
             </td>
             <td valign="middle">Chelyabinsk State University.
