@@ -68,6 +68,7 @@
     <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
     <a href="#"><img alt="Confluence" src="https://img.shields.io/badge/confluence-%23172BF4.svg?logo=confluence&logoColor=white"></a>
     <a href="#"><img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A.svg?logo=Gradle&logoColor=white"></a>
+    <a href="#"><img alt="Gradle" src="https://img.shields.io/badge/Allure-logo=&logoColor=white"></a>
     <a href="#"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white"></a>
     <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/-selenium-%43B02A?logo=selenium&logoColor=white"></a>
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white"></a>
@@ -78,6 +79,7 @@
 <p>
     <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"></a>
     <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
+    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/MacOS-000000?logo=apple&logoColor=white"></a>
     <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?logo=jenkins&logoColor=white"></a>
 </p>
   
