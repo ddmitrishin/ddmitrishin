@@ -34,7 +34,11 @@
         <img src="images/logo/qa-guru.png">
         </td>
         <td valign="middle">School of Automation Testing Engineers
-            <a target="_blank" href="https://qa.guru">qa.guru</a>. 
+            <a target="_blank" href="https://qa.guru">qa.guru</a>.
+            </br>My graduate work
+            </br>UI: https://github.com/ddmitrishin/ui_diploma.git
+            </br>API: https://github.com/ddmitrishin/api_diploma.git
+            </br>Mobile: https://github.com/ddmitrishin/mobile_diploma.git
         </td>
     </tr>
 </tr>
@@ -88,11 +92,10 @@
 <!-- Additional info section -->
 <details>	
   <summary>🔍 More about me</summary>
+  
 
-<a My graduate work></a>
-<a UI: https://github.com/ddmitrishin/ui_diploma.git></a>
-<a API: https://github.com/ddmitrishin/api_diploma.git></a>
-<a Mobile: https://github.com/ddmitrishin/mobile_diploma.git></a>
+Please click on icon to check my CV:
+<a href="https://github.com/ddmitrishin/ddmitrishin/blob/e8c15e4871f27fd9d939f29fce341ec567123449/images/Dmitrii_Dmitrishin_QA_Automation%20(3).pdf"><img width="32px" alt="CV" title="CV" src="images/logo/CV.png"/></a>
  
 🌍 I speak Russian, English<p></p>  
 </details>
