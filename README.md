@@ -89,7 +89,10 @@
 <details>	
   <summary>🔍 More about me</summary>
 
-My CV will be here soon 😉  
+My graduate work 
+UI: https://github.com/ddmitrishin/ui_diploma.git
+API: https://github.com/ddmitrishin/api_diploma.git
+Mobile: https://github.com/ddmitrishin/mobile_diploma.git 
  
 🌍 I speak Russian, English<p></p>  
 </details>
