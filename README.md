@@ -89,10 +89,10 @@
 <details>	
   <summary>🔍 More about me</summary>
 
-My graduate work 
-UI: https://github.com/ddmitrishin/ui_diploma.git
-API: https://github.com/ddmitrishin/api_diploma.git
-Mobile: https://github.com/ddmitrishin/mobile_diploma.git 
+<a My graduate work></a>
+<a UI: https://github.com/ddmitrishin/ui_diploma.git></a>
+<a API: https://github.com/ddmitrishin/api_diploma.git></a>
+<a Mobile: https://github.com/ddmitrishin/mobile_diploma.git></a>
  
 🌍 I speak Russian, English<p></p>  
 </details>
