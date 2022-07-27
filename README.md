@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="36" width="36"/></h1>
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=My+name+is+Dmitrii;I+work+as+a+QA+engineer;Nice+to+meet+you!&font=Fira%20Code&center=true&width=650&height=50&color=8FCE00&vCenter=true&size=26"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=My+name+is+Dmitrii;I+work+as+a+QA+engineer;Nice+to+meet+you!&font=Fira%20Code&center=true&width=650&height=50&color=8040C0&vCenter=true&size=26"></a>
 </p>
 
 <!-- Social icons section -->
