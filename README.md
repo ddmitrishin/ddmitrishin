@@ -95,7 +95,7 @@
   
 
 Please click on icon to check my CV:
-<a href="https://github.com/ddmitrishin/ddmitrishin/blob/ae4da2c5ae1406b5d64bb60eb585659795a0fbc9/images/Dmitrii_Dmitrishin_QA_Automation13.pdf"><img width="32px" alt="CV" title="CV" src="images/logo/CV.png"/></a>
+<a href="https://github.com/ddmitrishin/ddmitrishin/blob/54523f8bf160fb08f708e3fcdedd26d403d33b79/images/Dmitrii_Dmitrishin_QA_Automation_Engineer.pdf"><img width="32px" alt="CV" title="CV" src="images/logo/CV.png"/></a>
  
 🌍 I speak Russian, English<p></p>  
 </details>
